@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "chanybou0311 <chanyou0311@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^3.2.0"
+  }
 }
